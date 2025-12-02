@@ -1,0 +1,7 @@
+model_name: "google/gemma-2-9b-it"
+use_qlora: true
+max_length: 1024
+train_batch_size: 1
+valid_batch_size: 4
+learning_rate: 2.0e-4
+epochs: 1

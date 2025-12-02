@@ -1,0 +1,7 @@
+model_name: "distilroberta-base"
+use_qlora: false
+max_length: 512
+train_batch_size: 16
+valid_batch_size: 16
+learning_rate: 2.0e-5
+epochs: 5

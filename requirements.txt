@@ -7,3 +7,6 @@ sentencepiece
 protobuf
 hf_xet
 kaggle
+bitsandbytes 
+peft 
+python-dotenv
